@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://sharpsites-demo.github.io/saini-physiotherapy-demo/sitemap.xml
